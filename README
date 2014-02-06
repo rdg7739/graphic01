@@ -1,0 +1,21 @@
+
+/*
+  @@ Author: 
+     @ Revision 1 (August 13): Jian Chen (jichen@umbc.edu)
+  @@ CMSC 435 / 634 project 1:  simple Scene
+  @@ August 2013
+*/
+'c': turn on/off coordinate line
+Left mouse button: rotate the model
+Right mouse button: zoom in / out
+this robot is a fighting robot
+this robot has red hat made out of cone
+and has head which made out of green cylinder
+and the chest and neck are made out of cubic to show strongness
+and the shoulder made out of sphere so it can spin
+of course the arms made out of cube and the hand made out of sphere which is weapon
+and the body is made out of cylinder so easily slide attacks
+and the legs and foot made out of cube for strong base
+
+and each parts of the body are grouped
+so when i move one leg, other parts(other side leg, and foot),could follow without another translation
